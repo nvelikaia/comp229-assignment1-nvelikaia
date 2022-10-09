@@ -1,1 +1,11 @@
 /*custom css goes here*/
+nav {
+
+background-color: rgb(170, 219, 219);
+}
+.nav-link{
+    color: rgb(13, 13, 54);
+}
+.title{
+    color: rgb(13, 13, 54);
+}
