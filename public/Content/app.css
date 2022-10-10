@@ -1,11 +1,27 @@
 /*custom css goes here*/
 nav {
 
-background-color: rgb(170, 219, 219);
+background-color: #C1DDDD;
 }
 .nav-link{
     color: rgb(13, 13, 54);
 }
 .title{
-    color: rgb(13, 13, 54);
+    color: #0d0d36;
+}
+.btn-primary {
+    background-color: #508b8b;
+    margin-bottom: 20px;
+}
+body .container {
+    padding-left: 50px;
+}
+
+.col-sm{
+    width: 100px;
+    height: 300px;
+}
+
+body{
+    text-align: justify;
 }
