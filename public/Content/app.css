@@ -9,9 +9,12 @@ background-color: #C1DDDD;
 .title{
     color: #0d0d36;
 }
-.btn-primary {
+.btn-primary, .btn-warning {
     background-color: #508b8b;
+    border-color: #508b8b;
     margin-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
 }
 body .container {
     padding-left: 50px;
